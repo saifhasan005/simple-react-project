@@ -1,0 +1,14 @@
+.country{
+    border:2px solid salmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 25px;
+}
+.btn{
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: #959aa1;
+    color: #1f2329;
+}
