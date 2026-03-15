@@ -1,6 +1,6 @@
 import React, { use, useState } from 'react';
 import './Countries.css'
-import Country from '../../../Country/Country'
+import Country from '../../Country/Country'
 const Countries = ({ fetchData }) => {
     const [visitedCountry, setVisitedCountry] = useState([]);
     const [visitedFlags, setVisitedFlags] = useState([]);
