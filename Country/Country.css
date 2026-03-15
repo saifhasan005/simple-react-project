@@ -12,3 +12,7 @@
     background-color: #959aa1;
     color: #1f2329;
 }
+
+.country-visited{
+    border: 3px solid whitesmoke;
+}
